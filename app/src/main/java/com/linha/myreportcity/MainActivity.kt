@@ -150,7 +150,7 @@ fun MainScreen(
                         modifier = Modifier.height(80.dp),
                         title = {
                             Text(
-                                text = stringResource(R.string.app_name),
+                                text = "MyReportCity",
                                 fontSize = 16.sp,
                                 fontFamily = FontFamily.SansSerif,
                                 fontWeight = FontWeight.Bold

@@ -36,4 +36,4 @@ Aplikasi ini dibangun menggunakan arsitektur **MVVM (Model-View-ViewModel)**.
 ### Teknologi *Backend*
 
 * **Framework:** Laravel
-* **Autentikasi:** Middleware JWT session
+* **Autentikasi:** JWT

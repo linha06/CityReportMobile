@@ -19,11 +19,9 @@ CityReport Mobile dilengkapi dengan fitur-fitur penting untuk menjamin proses pe
 
 ### Arsitektur
 
-Aplikasi ini dibangun menggunakan arsitektur **MVVM (Model-View-ViewModel)** untuk memastikan pemisahan tanggung jawab yang jelas, kemudahan pengujian, dan skalabilitas.
+Aplikasi ini dibangun menggunakan arsitektur **MVVM (Model-View-ViewModel)**.
 
 ### Teknologi *Mobile* (Android)
-
-Kami memanfaatkan teknologi Android terkini untuk performa dan *user experience* terbaik:
 
 * **Bahasa Pemrograman:** Kotlin
 * **UI Toolkit:** Jetpack Compose

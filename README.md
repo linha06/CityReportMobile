@@ -1,6 +1,6 @@
 # 🏙️ CityReport Mobile
 
-**CityReport Mobile** adalah aplikasi inovatif yang dirancang untuk menjadi jembatan antara warga dan pemerintah dalam upaya menjaga kualitas lingkungan dan fasilitas publik. Aplikasi ini **memudahkan warga untuk melaporkan masalah publik** di lingkungan mereka dengan cepat dan efisien, seperti **jalan rusak, tumpukan sampah, atau fasilitas umum yang tidak berfungsi**.
+**CityReport Mobile** adalah aplikasi yang dirancang untuk menjadi jembatan antara warga dan pemerintah dalam upaya menjaga kualitas lingkungan dan fasilitas publik. Aplikasi ini **memudahkan warga untuk melaporkan masalah publik** di lingkungan mereka dengan cepat dan efisien, seperti **jalan rusak, tumpukan sampah, atau fasilitas umum yang tidak berfungsi**.
 
 ---
 
